@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Thiago Takeuchi
-#### Data Analyst
+#### Data Science and Power BI Development
 ![Data Analyst](https://github.com/ThiagoTak/Thiago_Takeuchi/blob/main/Thiago%20Takeuchi.png)
 
 I'm graduated in Advertising and Marketing from ESPM. Since college, I discovered my love for DATA universe.
